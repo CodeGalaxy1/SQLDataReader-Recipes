@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.Form1.resources
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.Properties.Resources.resources
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.exe.config
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.exe
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.pdb
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.exe
+C:\Users\user\source\repos\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.pdb
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.exe.config
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.exe
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\bin\Debug\RecipesSQL.pdb
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.Form1.resources
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.Properties.Resources.resources
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.exe
+C:\Users\user\Desktop\Gal\'שנה ב\'סמסטר ב\Web API-Full stack\ניר\שיעור 2 - 02.03.2021\RecipesSQL\RecipesSQL\obj\Debug\RecipesSQL.pdb
